@@ -1,0 +1,76 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1115 MB
+    Driver:   20.19.15.4835
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\KdTreeLib.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\KdTreeLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\Poly2Tri.dll (this message is harmless)
+Loading C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\Poly2Tri.dll into Unity Child Domain
+- Completed reload, in  0.738 seconds
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Aryeh Ness\Documents\Basketball(Hydra)\Basketball (Hydra)\wut_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 138.397278 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 197c -> priority: 1 
+  Thread -> id: 2974 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.736858 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3266.
+Total: 1.829953 ms (FindLiveObjects: 0.309117 ms CreateObjectMapping: 0.077883 ms MarkObjects: 1.400086 ms  DeleteObjects: 0.039243 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.410980 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 3268.
+Total: 4.187581 ms (FindLiveObjects: 1.325825 ms CreateObjectMapping: 0.173878 ms MarkObjects: 2.646821 ms  DeleteObjects: 0.038035 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.822722 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3209.
+Total: 0.933391 ms (FindLiveObjects: 0.284968 ms CreateObjectMapping: 0.077883 ms MarkObjects: 0.525862 ms  DeleteObjects: 0.043469 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.328647 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 3268.
+Total: 0.915278 ms (FindLiveObjects: 0.222782 ms CreateObjectMapping: 0.071242 ms MarkObjects: 0.589255 ms  DeleteObjects: 0.031394 ms)
+
+hi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.486632 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3209.
+Total: 0.949088 ms (FindLiveObjects: 0.240894 ms CreateObjectMapping: 0.080298 ms MarkObjects: 0.573558 ms  DeleteObjects: 0.052525 ms)
+
